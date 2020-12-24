@@ -17,6 +17,10 @@ __~ Anish Sachdeva__
 ## 📖 Index
 1. [Introduction](#introduction)
 1. [Getting Started With Python](#getting-started-with-python) 
+1. [Further Reading](#further-reading)
+1. [Python Books](#python-books-)
+1. [Machine Learning Books](#machine-learning-books)
+1. [Future Path??](#future-scope-and-path)
 
 ## Introduction
 Solutions to all sample problems on HackerRank under the 
@@ -131,6 +135,9 @@ python hello_world.py
 - [Python in a Nutshell](https://github.com/anishLearnsToCode/books/blob/master/python/python-in-a-nutshell-3e.pdf)
 - [Programming Python](https://github.com/anishLearnsToCode/books/blob/master/python/programming-python-4e.pdf)
 - [Python For Data Analysis](https://github.com/anishLearnsToCode/books/blob/master/python/python-for-data-analysis-2e.pdf)
+
+## Machine Learning Books
+
 
 ## Future Scope and Path
 Now that you have learnt the basics of Python and also built an amazing project that showcases
