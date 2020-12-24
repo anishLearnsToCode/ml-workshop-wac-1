@@ -11,8 +11,9 @@ __~Anish Sachdeva__
     Break Timings: 5:00 PM - 6:00 PM
 </details>
 
-📽 [Course Link](https://us02web.zoom.us/j/82092265595?pwd=L250M3hVaGVWemtLeERIYkFVR3A0QT09) |
-🌊 [Course Flow](course-flow.md)
+🌐 [Course Link](https://us02web.zoom.us/j/82092265595?pwd=L250M3hVaGVWemtLeERIYkFVR3A0QT09) |
+📽 [Class Video Recordings](https://photos.app.goo.gl/95ea3AeeK4acUe9w8) |
+🌊 [Course Flow](course-flow.md) 
 
 ## 📖 Index
 1. [Introduction](#introduction)
