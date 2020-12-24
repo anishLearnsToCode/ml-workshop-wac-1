@@ -16,7 +16,8 @@ __~Anish Sachdeva__
 
 ## 📖 Index
 1. [Introduction](#introduction)
-1. [Getting Started With Python](#getting-started-with-python) 
+1. [Getting Started With Python](#getting-started-with-python)
+1. [Day 1](#1-day-1) 
 1. [Further Reading](#further-reading)
 1. [Python Books](#python-books-)
 1. [Machine Learning Books](#machine-learning-books)
@@ -119,6 +120,19 @@ To run the code navigate to file in terminal and run the following commands.
 python hello_world.py
 >>> hello world !
 ```
+
+## 1️⃣ Day 1
+- [Hello World!](day_1/hello_world.py)
+- [Print Statement](day_1/print_statement.py)
+- [Comments](day_1/comments.py)
+- [Variables Names](day_1/variable_names.py)
+- [Variables](day_1/variables.py)
+- [Taking User Input](day_1/taking_user_input.py)
+- [Taking Integer Input](day_1/integer_input.py)
+- [Arithmetic Operators](day_1/arithmetic_expressions.py)
+- [Boolean Operators](day_1/boolean_operators.py)
+- [If Else Block](day_1/python_if_else.py)
+- [Even Odd Program](day_1/even_odd.py)
 
 ## Further Reading
 - [w3 School Python](https://www.w3schools.com/python/)
