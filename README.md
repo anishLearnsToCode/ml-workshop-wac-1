@@ -17,7 +17,7 @@ __~Anish Sachdeva__
 ## 📖 Index
 1. [Introduction](#introduction)
 1. [Getting Started With Python](#getting-started-with-python)
-1. [Day 1](#1-day-1) 
+1. [Day 1](#1%EF%B8%8F⃣-day-1) 
 1. [Further Reading](#further-reading)
 1. [Python Books](#python-books-)
 1. [Machine Learning Books](#machine-learning-books)
