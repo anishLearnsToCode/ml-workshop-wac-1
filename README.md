@@ -19,6 +19,7 @@ __~Anish Sachdeva__
 1. [Introduction](#introduction)
 1. [Getting Started With Python](#getting-started-with-python)
 1. [Day 1](#1%EF%B8%8F⃣-day-1) 
+1. [Day 2]()
 1. [Further Reading](#further-reading)
 1. [Python Books](#python-books-)
 1. [Machine Learning Books](#machine-learning-books)
@@ -148,6 +149,9 @@ python hello_world.py
 - [Factorial Recursive Function](day_1/factorial_recursive.py)
 - [Fibonacci Recursive Function](day_1/fibonacci.py)
 - [Lists](day_1/lists.py)
+
+## 2️⃣ Day 2
+- [NumPy Tutorial Jupyter Notebook](day_2/notebooks/numpy-tutorial.ipynb)
 
 ## Further Reading
 - [w3 School Python](https://www.w3schools.com/python/)
