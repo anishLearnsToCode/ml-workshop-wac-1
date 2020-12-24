@@ -133,6 +133,10 @@ python hello_world.py
 - [Boolean Operators](day_1/boolean_operators.py)
 - [If Else Block](day_1/python_if_else.py)
 - [Even Odd Program](day_1/even_odd.py)
+- [Factorial Using For Loop](day_1/factorial.py)
+- [Factorial Function](day_1/factorial_function.py)
+- [Factorial Recursive Function](day_1/factorial_recursive.py)
+- [Fibonacci Recusrive Function](day_1/fibonacci.py)
 
 ## Further Reading
 - [w3 School Python](https://www.w3schools.com/python/)

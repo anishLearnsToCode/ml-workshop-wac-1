@@ -6,8 +6,8 @@
 1. Variables
 1. Comments
 1. Data Types
-1. taking User Input
-1. taking Integer Input
+1. Taking User Input
+1. Taking Integer Input
 
 ## Operators
 1. Arithmetic Operators
@@ -67,3 +67,9 @@
 1. Cleaning Datasets
 1. Visualising Datasets
 
+## Introduction To Machine Learning
+1. Linear Regression
+1. Multiple Linear Regression
+1. Multiple Non-Linear Regression
+1. Cat / Dog Classification using SVM
+1. 
