@@ -1,5 +1,5 @@
 # 🧠 ML/AI Workshop @ What After College
-__~ Anish Sachdeva__
+__~Anish Sachdeva__
 
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 [![cp](https://img.shields.io/badge/also%20see-Other%20Courses-1f72ff.svg)](https://github.com/anishLearnsToCode/course-list)
