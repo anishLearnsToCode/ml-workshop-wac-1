@@ -7,7 +7,7 @@ __~ Anish Sachdeva__
 <details>
     <summary><b>Workshop Timings</b></summary>
     Workshop Dates: 24th, 25th, 28th, 29th & 30th December 2020 <br>
-    Workshop Timings: 3:00 PM - 2:00 PM <br>
+    Workshop Timings: 3:00 PM - 8:00 PM <br>
     Break Timings: 11:00 AM - 12:00 AM
 </details>
 
