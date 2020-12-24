@@ -2,3 +2,7 @@
 venv
 __pycache__
 assets/__pycache__
+day_1/__pycache__
+day_2/__pycache__
+day_2/notebooks/.ipynb_checkpoints
+
