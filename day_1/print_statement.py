@@ -1,0 +1,11 @@
+print('i am here')
+print('weeeeeee')
+print('this is awesome', end=' this will send to next line ----> \n\n')
+print('hello world', end='\n\n\n')
+print('i am now in the next line', end='\t')
+print('i am in continuation', end='\t\t')
+print(end='something')
+print(' i am still here', end='')
+
+print('hello this is new', end='\f')
+print('continue')

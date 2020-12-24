@@ -62,4 +62,8 @@
 1. Pandas
 1. Matplotlib
 
+## Data Exploration & Feature Engineering
+1. Loading in Datasets
+1. Cleaning Datasets
+1. Visualising Datasets
 
