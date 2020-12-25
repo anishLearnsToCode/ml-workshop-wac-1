@@ -151,8 +151,25 @@ python hello_world.py
 - [Lists](day_1/lists.py)
 
 ## 2️⃣ Day 2
+- [Helping 1 Person In His Problem](day_2/first%20tutorial.py)
+- [Loop Control Flow Statements](day_2/loop_flow_control_statements.py)
+- [Lists](day_2/lists.py)
+- [Iterating Over a List](day_2/list_iterable.py)
+- [List Comprehension (Generator Functions)](day_2/list_comprehension.py)
+- [Taking List Input](day_2/list_input.py)
+- [Map Operator](day_2/map_operator.py)
+- [Tuples](day_2/tuples.py)
+- [Dictionary](day_2/dictionary.py)
+- [Complex Dictionary](day_2/complex_dictionary.py)
+- [Frequency Counter Using Dictionary](day_2/frequency_counter.py)
+- [Iterating Over a Dictionary](day_2/iterate_dict.py)
+- [Inbuilt Functions](day_2/inbuilt_functions.py)
+- [Math Package](day_2/math_package.py)
+- [Random Package](day_2/random_package.py)
 - [NumPy Tutorial Jupyter Notebook](day_2/notebooks/numpy-tutorial.ipynb)
 - [Matplotlib Tutorial Jupyter Notebook](day_2/notebooks/matplotlib-tutorial.ipynb)
+- [Drawing Multiple Plots](day_2/multiple_plots.py)
+- [Pandas Tutorial](day_2/notebooks/pandas-tutorial.ipynb)
 
 ## Further Reading
 - [w3 School Python](https://www.w3schools.com/python/)
