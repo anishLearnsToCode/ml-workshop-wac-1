@@ -152,6 +152,7 @@ python hello_world.py
 
 ## 2️⃣ Day 2
 - [NumPy Tutorial Jupyter Notebook](day_2/notebooks/numpy-tutorial.ipynb)
+- [Matplotlib Tutorial Jupyter Notebook](day_2/notebooks/matplotlib-tutorial.ipynb)
 
 ## Further Reading
 - [w3 School Python](https://www.w3schools.com/python/)
