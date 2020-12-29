@@ -184,6 +184,12 @@ python hello_world.py
 - [Leap Year Problem (Hackerrank)](day_3/write_function.py)
 
 ## 4️⃣ Day 4
+- [Vectorization (Jupyter Notebook)](notebooks/vectorization/Vectorization.ipynb)
+- [Decision Trees (Jupyter Notebook)](notebooks/decision-trees/decision-trees-tutorial.ipynb)
+- [Kaggle Titanic Solution (Jupyter Notebook)](notebooks/kaggle-titanic/titanic-solution.ipynb)
+- [Linear Regression (Jupyter Notebook)](notebooks/linear-regression/linear-regression.ipynb)
+- [Multi Linear Regression (Jupyter Notebook)](notebooks/multi-linear-regression/Multi%20Linear%20Regression.ipynb)
+- [Logistic Regression (Jupyter Notebook)](notebooks/logistic-regression/Logistic_Regression.ipynb)
 
 ## 5️⃣ Day 5
 
