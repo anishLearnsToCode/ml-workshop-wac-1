@@ -20,6 +20,9 @@ __~Anish Sachdeva__
 1. [Getting Started With Python](#getting-started-with-python)
 1. [Day 1](#1%EF%B8%8F⃣-day-1) 
 1. [Day 2](#2%EF%B8%8F⃣-day-2)
+1. [Day 3](#3%EF%B8%8F⃣-day-3)
+1. [Day 4]()
+1. [Day 5]()
 1. [Further Reading](#further-reading)
 1. [Python Books](#python-books-)
 1. [Machine Learning Books](#machine-learning-books)
@@ -179,6 +182,10 @@ python hello_world.py
 - [Lambda Functions](day_3/lambda_functions.py)
 - [String Formatting in Python](day_3/python_formatting.py)
 - [Leap Year Problem (Hackerrank)](day_3/write_function.py)
+
+## 4️⃣ Day 4
+
+## 5️⃣ Day 5
 
 ## Further Reading
 - [w3 School Python](https://www.w3schools.com/python/)
