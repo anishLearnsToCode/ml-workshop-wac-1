@@ -174,6 +174,11 @@ python hello_world.py
 - [Introduction to Pandas Tutorial (Jupyter Notebook)](notebooks/pandas/intro-to-pandas.ipynb)
 - [Working With The Stack Overflow Data Using Pandas (Jupyter Notebook)](notebooks/pandas/pandas-stack-overflow.ipynb)
 - [Plotting Pandas Data Using Matplotlib (Jupyter Notebook)](notebooks/matplotlib/pandas-matplot-lib-tutorial.ipynb)
+- [String Functions](day_3/string_functions.py)
+- [sWAP cASE (Hackerrank)](day_3/swap_case.py)
+- [Lambda Functions](day_3/lambda_functions.py)
+- [String Formatting in Python](day_3/python_formatting.py)
+- [Leap Year Problem (Hackerrank)](day_3/write_function.py)
 
 ## Further Reading
 - [w3 School Python](https://www.w3schools.com/python/)
