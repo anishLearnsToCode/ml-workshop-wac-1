@@ -166,10 +166,14 @@ python hello_world.py
 - [Inbuilt Functions](day_2/inbuilt_functions.py)
 - [Math Package](day_2/math_package.py)
 - [Random Package](day_2/random_package.py)
-- [NumPy Tutorial Jupyter Notebook](day_2/notebooks/numpy-tutorial.ipynb)
-- [Matplotlib Tutorial Jupyter Notebook](day_2/notebooks/matplotlib-tutorial.ipynb)
+- [NumPy Tutorial (Jupyter Notebook)](notebooks/numpy-tutorial/numpy-tutorial.ipynb)
+- [Matplotlib Tutorial (Jupyter Notebook)](notebooks/matplotlib/matplotlib-tutorial.ipynb)
 - [Drawing Multiple Plots](day_2/multiple_plots.py)
-- [Pandas Tutorial](day_2/notebooks/pandas-tutorial.ipynb)
+
+## 3️⃣ Day 3
+- [Introduction to Pandas Tutorial (Jupyter Notebook)](notebooks/pandas/intro-to-pandas.ipynb)
+- [Working With The Stack Overflow Data Using Pandas (Jupyter Notebook)](notebooks/pandas/pandas-stack-overflow.ipynb)
+- [Plotting Pandas Data Using Matplotlib (Jupyter Notebook)](notebooks/matplotlib/pandas-matplot-lib-tutorial.ipynb)
 
 ## Further Reading
 - [w3 School Python](https://www.w3schools.com/python/)

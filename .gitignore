@@ -4,5 +4,9 @@ __pycache__
 assets/__pycache__
 day_1/__pycache__
 day_2/__pycache__
-day_2/notebooks/.ipynb_checkpoints
-day_2/notebooks/__pycache__
+notebooks/.ipynb_checkpoints
+notebooks/__pycache__
+notebooks/linear_regression/.ipynb_checkpoints
+notebooks/matplotlib/.ipynb_checkpoints
+notebooks/numpy-tutorial/.ipynb_checkpoints
+notebooks/pandas/.ipynb_checkpoints
