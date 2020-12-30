@@ -192,6 +192,9 @@ python hello_world.py
 - [Logistic Regression (Jupyter Notebook)](notebooks/logistic-regression/Logistic_Regression.ipynb)
 
 ## 5️⃣ Day 5
+- [Nested For Loop](day_5/for_nested.py)
+- [Ice Cream Parlour (Hackerrank)](day_5/ice_cream_parlour.py)
+- [Instagram User Profile Downloader](day_5/insta_loader.py)
 - [Numpy Basics For Deep Learning (Jupyter Notebook)](notebooks/numpy-tutorial/numpy-basics-for-deep-learning.ipynb)
 - [Logistic Regression As A Neural Network (Jupyter Notebook)](notebooks/logisic-regression-as-a-neural-network/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
 - [Planar Classification With 1 Hidden Layer (Jupyter Notebook)](notebooks/planar-classification-with-one-hidden-layer/Planar_data_classification_with_onehidden_layer.ipynb)
