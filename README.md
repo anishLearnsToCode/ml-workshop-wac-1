@@ -14,8 +14,8 @@ __~Anish Sachdeva__
 🌐 [Course Link](https://us02web.zoom.us/j/82092265595?pwd=L250M3hVaGVWemtLeERIYkFVR3A0QT09) |
 📽 [Class Video Recordings](https://photos.app.goo.gl/95ea3AeeK4acUe9w8) |
 🌊 [Course Flow](course-flow.md) |
-✒ [MS Exam Solution Sample 1](assets/python-attempt-1-solutions.pdf) |
-✒ [MS Exam Solution Sample 2](assets/python-attempt-1-solutions.pdf)
+✒ [MS Exam Sample 1](assets/python-attempt-1-solutions.pdf) |
+✒ [MS Exam Sample 2](assets/python-attempt-1-solutions.pdf)
 
 ## 📖 Index
 1. [Introduction](#introduction)
