@@ -192,6 +192,11 @@ python hello_world.py
 - [Logistic Regression (Jupyter Notebook)](notebooks/logistic-regression/Logistic_Regression.ipynb)
 
 ## 5️⃣ Day 5
+- [Numpy Basics For Deep Learning (Jupyter Notebook)](notebooks/numpy-tutorial/numpy-basics-for-deep-learning.ipynb)
+- [Logistic Regression As A Neural Network (Jupyter Notebook)](notebooks/logisic-regression-as-a-neural-network/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
+- [Planar Classification With 1 Hidden Layer (Jupyter Notebook)](notebooks/planar-classification-with-one-hidden-layer/Planar_data_classification_with_onehidden_layer.ipynb)
+- [Building Neural Network Step By Step (Jupyter Notebook)](notebooks/building-your-deep-neural-network-step-by-step/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
+- [Deep Neural Network Application (Building a Neural Network Classifier) (Jupyter Notebook)](notebooks/building-your-deep-neural-network-step-by-step/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
 
 ## Further Reading
 - [w3 School Python](https://www.w3schools.com/python/)
